@@ -582,10 +582,6 @@ header .follow a:hover{
     background: #fff;
 }
 
-.footer span{
-    color:var(--main-color);
-}
-
 
 @media (max-width:991px){
 
